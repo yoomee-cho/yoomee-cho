@@ -1,7 +1,4 @@
-# Yoomee Cho
-
-I build lip-sync and text-to-speech models, and the AI dubbing service that runs on them.
-Machine learning engineer at ESTsoft since 2022.
+Machine learning engineer at ESTsoft since 2022. I build the in-house lip-sync models and the TTS engine behind an AI dubbing service, and I run the pipeline that serves them.
 
 Most of my work ships inside a commercial product, so the code is private. What is public:
 
