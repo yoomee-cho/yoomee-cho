@@ -1,4 +1,4 @@
-Machine learning engineer at ESTsoft since 2022. I build the in-house lip-sync models and the TTS engine behind an AI dubbing service, and I run the pipeline that serves them.
+Machine learning engineer at ESTsoft since 2022. I build the lip-sync models and the TTS engine behind an AI dubbing service, and I run the pipeline that serves them.
 
 Most of my work ships inside a commercial product, so the code is private. What is public:
 
@@ -7,7 +7,7 @@ Most of my work ships inside a commercial product, so the code is private. What 
 ### Now
 
 - **In-house TTS engine** for AI dubbing. Keeps the original speaker's voice better than the leading commercial dubbing service (speaker similarity 0.57–0.66 against 0.45–0.55), first on all 13 language pairs benchmarked.
-- **Lip-sync models.** One in-house model, built and improved since 2022. The 2026 redesign cut FID by 21% and made per-person adaptation training over 30% faster.
+- **In-house lip-sync models.** One model, built and improved since 2022. The 2026 redesign cut FID by 21% and made per-person adaptation training over 30% faster.
 - **On-device lip-sync** at 24+ FPS on an M2 chip, shipped in B2B products for Samsung, LG, Olive Young and others.
 
 ### Earlier
